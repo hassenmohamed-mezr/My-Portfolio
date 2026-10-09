@@ -198,7 +198,7 @@ function Footer() {
 }
 
 function Home() {
-  return <div className="site-shell"><Navbar /><main><Hero /><Approach /><Projects /><Stack /><Mindset /><About /><Contact /></main><Footer /></div>;
+  return <div className="site-shell"><Navbar /><main><Hero /><About /><Approach /><Projects /><Stack /><Mindset /><Contact /></main><Footer /></div>;
 }
 
 function Router() {
